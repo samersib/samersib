@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samersib
+- 👋 Hi, I’m Samer
 - 👀 I’m interested in CS/IT
 - 🌱 I’m currently learning IT
 - 👨🏽‍💻 I love to learn,code,hack
